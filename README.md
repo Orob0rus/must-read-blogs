@@ -9,4 +9,5 @@ This project contains a list of must-read blogs regarding algorithms and program
 
 
 # Golang
+> http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/ common gotchas in golang
 
